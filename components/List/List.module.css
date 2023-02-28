@@ -1,0 +1,29 @@
+.li {
+  position: relative;
+  font-size: 24px;
+  border-bottom: 1px solid #ededed;
+}
+
+.writtenInput {
+  height: 60px;
+  margin-left: 20px;
+}
+
+.writtenLabel {
+  padding: 15px 15px 15px 20px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+}
+
+.x {
+  position: absolute;
+  top: 0;
+  right: 10px;
+  bottom: 0;
+  width: 40px;
+  height: 40px;
+  margin: auto 0;
+  font-size: 30px;
+  color: #cc9a9a;
+}

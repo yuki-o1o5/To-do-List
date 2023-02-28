@@ -1,0 +1,17 @@
+.linBarContainer {
+  height: 40px;
+  display: grid;
+  width: 100%;
+  grid-template-columns: 30% 70%;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.itemNumbers {
+  padding-left: 20px;
+}
+
+.linkContainer {
+  display: flex;
+  justify-content: space-around;
+}
